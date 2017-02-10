@@ -6,15 +6,6 @@
 //  Copyright © 2016年 Yifu. All rights reserved.
 //
 
-
-/* 主题：近似算法——旅行售货员问题
- * 作者：chinazhangjie
- * 邮箱：chinajiezhang@gmail.com
- * 开发语言： C++
- * 开发环境： Virsual Studio 2005
- * 时间: 2010.12.06
- */
-
 #include <iostream>
 #include <vector>
 #include <limits>
